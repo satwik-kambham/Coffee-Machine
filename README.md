@@ -1,5 +1,5 @@
 # Coffee-Machine
-A coffee machine simulator
+A coffee machine simulator.
 This is my first program in Java.
 
 This is a coffee machine project that is designed to simulate
